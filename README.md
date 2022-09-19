@@ -1,5 +1,7 @@
 # Azure-CLI ready for AKS
 
+https://hub.docker.com/repository/docker/exaonline/azure-cli
+
 ## update docker image on docker hub
 
 login into docker hub
