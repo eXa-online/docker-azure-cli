@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/azure-cli:latest
+FROM mcr.microsoft.com/azure-cli:2.42.0
 
 RUN az extension add --upgrade --name aks-preview
 RUN az aks install-cli
